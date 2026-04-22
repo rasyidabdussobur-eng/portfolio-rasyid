@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-rasyid",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "lucide-react": "^0.344.0"
+  },
+  "scripts": {
+    "start": "echo 'no local start needed'",
+    "build": "echo 'no build needed'"
+  }
+}
